@@ -1,12 +1,11 @@
 {
   "expo": {
-    "name": "meowxtt",
-    "slug": "snack-5b53ca45-0a04-4875-b3d1-ee8e566207dc",
+    "name": "Meowxt",
+    "slug": "meowxt",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "newArchEnabled": true,
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
@@ -20,11 +19,13 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "package": "com.buxchu.meowxt"
     },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    },
-    "description": "Text"
+    "extra": {
+      "eas": {
+        "projectId": "5b53ca45-8a04-4875-b3d1-ee8e566207dc"
+      }
+    }
   }
 }
+
