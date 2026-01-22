@@ -20,11 +20,6 @@
         "backgroundColor": "#ffffff"
       },
       "package": "com.buxchu.meowxt"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "85606b35-86d4-46d7-babe-a18198dda29f"
-      }
     }
   }
 }
